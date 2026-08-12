@@ -4,7 +4,7 @@ Projeto de estudo em cybersecurity: análise de um e-mail de phishing (fictício
 
 Fiz depois de terminar o curso Introduction to Cybersecurity, da Cisco Networking Academy (certificado em 07/08/2026). A ideia foi sair do "só tenho certificado" e começar a mostrar como aplico o que aprendi.
 
-##Objetivo
+## Objetivo
 
 Analisar um e-mail de phishing como um analista faria: apontar os sinais de fraude, explicar por que cada um é suspeito, e documentar como o usuário poderia se proteger.
 
@@ -14,7 +14,7 @@ Analisar um e-mail de phishing como um analista faria: apontar os sinais de frau
 
 ## Como identificar
 
-#Sinais que costumam aparecer:
+# Sinais que costumam aparecer:
 
 - domínio do remetente parecido com o oficial, mas não é o mesmo
 - mensagem criando senso de urgência ("sua conta será bloqueada")
