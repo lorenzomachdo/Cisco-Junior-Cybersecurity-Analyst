@@ -8,13 +8,12 @@ Neste cenário, o atacante consegue acesso à rede através de uma vulnerabilida
 
 ---
 
-## 2. Possíveis Attack Vectors
+## 2. Possíveis vetores de ataque
 
 Um ataque de ransomware pode acontecer através de:
 
 - Vulnerabilidades em softwares desatualizados
 - Senhas fracas ou comprometidas
-- Remote Desktop Protocol (RDP) exposto
 - Downloads de arquivos maliciosos
 - Dispositivos infectados conectados à rede
 
@@ -63,7 +62,6 @@ Caso um ataque seja identificado:
 Algumas medidas que podem reduzir o risco:
 
 - Manter sistemas e softwares atualizados
-- Utilizar Multi-Factor Authentication (MFA)
 - Criar backups regulares
 - Utilizar Endpoint Protection
 - Utilizar senhas fortes
